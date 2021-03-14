@@ -1,5 +1,5 @@
-import React from  'react'
+import './styles/global.scss';
 
 export function App() {
-  return <h1>Hello World Brazil</h1>
+  return <h1>Hello World Natal Brazil</h1>
 }
